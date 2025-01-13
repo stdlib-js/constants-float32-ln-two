@@ -151,6 +151,13 @@ Macro for the [natural logarithm][@stdlib/math/base/special/lnf] of `2` as a sin
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/ln-ten`][@stdlib/constants/float32/ln-ten]</span><span class="delimiter">: </span><span class="description">natural logarithm of `10` as a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
+
 </section>
 
 <!-- /.related -->
@@ -181,7 +188,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -230,6 +237,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-lnf
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float32/ln-ten]: https://github.com/stdlib-js/constants-float32-ln-ten
+
+[@stdlib/constants/float64/ln-two]: https://github.com/stdlib-js/constants-float64-ln-two
 
 <!-- </related-links> -->
 
